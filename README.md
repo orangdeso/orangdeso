@@ -30,17 +30,17 @@ Perkenalkan nama saya Ahmad Choirul Umam Ali Rozaqi seorang mahasiswa semester 5
 ## GitHub Stats
 <div align='center'>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiizh10&hide=&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangdeso&hide=&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hafiizh10&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zoelva GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=orangdeso&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Orang Deso GitHub Stats" />
 </a>
 </div>
 
 ## Information
 <div align='center'>
 
-![](https://komarev.com/ghpvc/?username=hafiizh10&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=orangdeso&label=PROFILE+VIEWS)
 
 </div>
 <!-- GitHub profile inspired by MartinHeinz  -->
