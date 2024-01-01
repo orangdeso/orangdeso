@@ -17,20 +17,13 @@ Perkenalkan nama saya Ahmad Choirul Umam Ali Rozaqi seorang mahasiswa semester 5
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </div>
 
-//## My Products
-//<ul>
-// <li><a href="https://larazoe.zoelva.my.id"><b>Larazoe : Aplikasi Booking Studio Foto</b></a></li>
-//</ul>
-
 ## Social Media
 <div align='center'>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&labelColor=0077B5&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zoelva/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/zoel.va/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://www.facebook.com/hafizh.khairani/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&labelColor=D14836&logo=gmail&logoColor=white)](mailto:hafiizh10@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/6281251206812/)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&labelColor=000000&logo=About.me&logoColor=white)](https://zoelva.my.id/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&labelColor=0077B5&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-choirul-umam-ali-rozaqi-1b3196271/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/bung_choi/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&labelColor=D14836&logo=gmail&logoColor=white)](mailto:ahmadzaqi98mmm@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/6282142568403/)
 
 </div>
 
