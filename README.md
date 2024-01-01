@@ -1,5 +1,5 @@
 <h1 align='center'>Selamat datang di GitHub saya <img src="https://raw.githubusercontent.com/hafiizh10/hafiizh10/main/wave.gif" width="40px" height="40px" /></h1>
-Perkenalkan nama saya Zoelva seorang web developer dari tahun 2014 hingga sekarang sudah membuat beberapa projek aplikasi web untuk perusahaan ataupun perorangan, saat ini saya sedang membuka jasa pembuatan aplikasi booking studio foto, booking foto wedding, dan undangan digital yang bernama Larazoe.
+Perkenalkan nama saya Ahmad Choirul Umam Ali Rozaqi seorang mahasiswa semester 5 program studi D-IV Teknik Informatika Jurusan Teknologi Informasi di Politeknik Negeri Jember dengan keahliann dalam Android Mobile Developer dan UI/UX Desain.
 
 ## Technologies & Tools
 <div align='center'>
@@ -17,10 +17,10 @@ Perkenalkan nama saya Zoelva seorang web developer dari tahun 2014 hingga sekara
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </div>
 
-## My Products
-<ul>
- <li><a href="https://larazoe.zoelva.my.id"><b>Larazoe : Aplikasi Booking Studio Foto</b></a></li>
-</ul>
+//## My Products
+//<ul>
+// <li><a href="https://larazoe.zoelva.my.id"><b>Larazoe : Aplikasi Booking Studio Foto</b></a></li>
+//</ul>
 
 ## Social Media
 <div align='center'>
