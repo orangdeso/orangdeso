@@ -1,4 +1,4 @@
-<h1 align='center'>Selamat datang di profil GitHub saya <img src="https://raw.githubusercontent.com/hafiizh10/hafiizh10/main/wave.gif" width="40px" height="40px" /></h1>
+<h1 align='center'>Selamat Datang di GitHub Saya <img src="https://raw.githubusercontent.com/hafiizh10/hafiizh10/main/wave.gif" width="40px" height="40px" /></h1>
 Perkenalkan nama saya Ahmad Choirul Umam Ali Rozaqi merupakan seorang mahasiswa aktif semester 5 program studi D-IV Teknik Informatika Jurusan Teknologi Informasi di Politeknik Negeri Jember dengan keahliann dalam Android Mobile Developer dan UI/UX Desain.
 
 ## Technologies & Tools
